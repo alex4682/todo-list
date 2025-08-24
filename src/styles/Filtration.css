@@ -1,0 +1,22 @@
+.filtration{
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.filtration-input {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 200px;
+    box-sizing: border-box;
+}
+
+.filtration-title {
+    font-size: 24px;
+    color: #333;
+    margin: 0;
+}
